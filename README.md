@@ -10,16 +10,13 @@ In the code, we go through 4 general steps:
 * Preprocess training and testing data into feature vectors.
 * Train model on training features.
 * Test model with testing features.
-* Report results
+* Report results and time taken to test and train <br />
 
-> Current training accuracy: _83%_
-
-> Current testing accuracy: _50%_
+> Current training accuracy: _83%_ <br />
+> Current testing accuracy: _50%_ <br />
 
 - - - -
 
-_Code originally developed for CptS 570 at Washington State University in Fall 2016._
-
-**Written by Luke Weber**
-
+_Code originally developed for CptS 570 at Washington State University in Fall 2016._ <br /><br />
+**Written by Luke Weber** <br />
 **Created 11/04/2016**
